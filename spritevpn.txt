@@ -1,4 +1,4 @@
-#profile-title:SPriteVPN
+#profile-title: SPriteVPN
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=999000000000000; expire=4102444799
 #support-url: https://t.me/FINSED
